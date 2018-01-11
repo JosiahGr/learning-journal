@@ -1,0 +1,5 @@
+Well, today it got real. I struggled a lot with loops. I understand the concept and I fought through my sixth question for labs today. But I’m really struggling with the seventh. I’m turning my assignment in less complete then I want (especially because question 7 is still broken) but I’m hoping to learn where I went wrong in code review today and see where that gets me. I’m also falling behind on writing assignments but staying caught up with readings so I’ll have to get that finished over the weekend. 
+
+On a positive note, I feel like I’m really grasping CSS and HTML well. I feel very confident in basic commands with the terminal to the point I don’t really have to think to get around at all. So there is that. :) 
+
+After riding the bus here and sleeping on it, I think I figured out where I went wrong with the loops. Looking forward to trying it again. 
