@@ -1,0 +1,3 @@
+Wow! What a day. We hit this week running. Lab was intense. The real world approach is pretty nice though. The problem domain appears to be super frustrating but it's a good approach to have us learn this way. It was really difficult/overwhelming to just be thrown into it. 
+
+I wasn't able to finish the whole assignment but I feel like i'm heading in the right direction. We'll see what gets added tomorrow though. 
