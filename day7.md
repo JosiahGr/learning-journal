@@ -1,0 +1,3 @@
+Dear Journal, 
+
+Today sucked. Really badly. I realized about halfway through lab that I didn't have nearly the correct code so I had to work on yesterdays project at class and then todays lab at home. I am happy to report it was successful and that I learned a lot. I've never been so discouraged by a "total" bar before though. Class was enlightening! We learned about constructor functions and tables. 
