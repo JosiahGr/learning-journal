@@ -1,0 +1,1 @@
+Well, I figured out MOST of todays material. I have everything working the way it should be EXCEPT the total cookies per hour row. I tried nesting a for loop and also loading up an array but i'm having dificulties figuring this one out. Hopefully tomorrows code review will enlighten me. 
